@@ -1,0 +1,24 @@
+{
+  "name": "lyft-challenge",
+  "version": "1.0.0",
+  "description": "# Software Engineer Apprenticeship",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilvina/lyft-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilvina/lyft-challenge/issues"
+  },
+  "homepage": "https://github.com/lilvina/lyft-challenge#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
